@@ -1,0 +1,21 @@
+<!-- Example Dangerous HTML Attributea  -->
+element.innerHTML = “<HTML> Tags and markup”;
+element.outerHTML = “<HTML> Tags and markup”;
+<!-- Example Dangerous HTML Methods -->
+document.write(“<HTML> Tags and markup”);
+document.writeln(“<HTML> Tags and markup”);
+
+<--Recommended HTML & JS encodings for attrivutes -->
+element.innerHTML = “<%=Encoder.encodeForJS(Encoder.encodeForHTML(untrustedData))%>”;
+element.outerHTML = “<%=Encoder.encodeForJS(Encoder.encodeForHTML(untrustedData))%>”;
+<--Recommended HTML & JS encodings for methods -->
+document.write(“<%=Encoder.encodeForJS(Encoder.encodeForHTML(untrustedData))%>”);
+document.writeln(“<%=Encoder.encodeForJS(Encoder.encodeForHTML(untrustedData))%>”);
+
+<! -- JavaScript Escape Before Inserting Untrusted Data into HTML Attribute Subcontext 
+within the Execution Context -->
+var x = document.createElement(“input”);
+x.setAttribute(“name”, “company_name”);
+x.setAttribute(“value”, ‘<%=Encoder.encodeForJS(companyName)%>’);
+var form1 = document.forms[0];
+form1.appendChild(x);

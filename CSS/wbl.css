@@ -1104,6 +1104,17 @@ body.page-has-banner.no-header-page.affix .birdseye-header {
 .main-wrap .blog-sidebar h2 {
   padding: 0;
 }
+
+.blog-post .blog-read-more {
+text-align: center;
+font-size: 26px;
+box-shadow: aqua;
+border: 2px solid;
+padding: 5px;
+border-radius: 5px;
+background: lightgreen;
+}
+
 #commentAreaTitle,
 .blogCommentHeading,
 .blogCommentText p {

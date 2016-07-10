@@ -5,14 +5,14 @@ element.outerHTML = “<HTML> Tags and markup”;
 document.write(“<HTML> Tags and markup”);
 document.writeln(“<HTML> Tags and markup”);
 
-<--Recommended HTML & JS encodings for attrivutes -->
+<!-- Recommended HTML & JS encodings for attrivutes -->
 element.innerHTML = “<%=Encoder.encodeForJS(Encoder.encodeForHTML(untrustedData))%>”;
 element.outerHTML = “<%=Encoder.encodeForJS(Encoder.encodeForHTML(untrustedData))%>”;
 <--Recommended HTML & JS encodings for methods -->
 document.write(“<%=Encoder.encodeForJS(Encoder.encodeForHTML(untrustedData))%>”);
 document.writeln(“<%=Encoder.encodeForJS(Encoder.encodeForHTML(untrustedData))%>”);
 
-<! -- JavaScript Escape Before Inserting Untrusted Data into HTML Attribute Subcontext 
+<!-- JavaScript Escape Before Inserting Untrusted Data into HTML Attribute Subcontext 
 within the Execution Context -->
 var x = document.createElement(“input”);
 x.setAttribute(“name”, “company_name”);
@@ -30,9 +30,9 @@ var y = document.createTextNode("Click To Test");
 x.appendChild(y);
 document.body.appendChild(x);
 
-<! -- an alternative to using Element.setAttribute(...) is to set the attribute directly to allow 
+<!-- an alternative to using Element.setAttribute(...) is to set the attribute directly to allow 
 JavaScript encoding to mitigate against DOM based XSS. 
-Please note, it is always dangerous design to put untrusted data directly into a command execution context.
+Please note, it is always dangerous design to put untrusted data directly into a command execution context. -->
 
 <a id="bb" href="#"> Test Me</a>
 
@@ -52,7 +52,7 @@ function testIt() {
 alert("I was called.");
            }
 
-<! -- URL Escape then JavaScript Escape Before Inserting Untrusted Data into URL Attribute Subcontext 
+<!-- URL Escape then JavaScript Escape Before Inserting Untrusted Data into URL Attribute Subcontext 
 within the Execution Context -->
 
 var x = document.createElement(“a”);
@@ -60,3 +60,10 @@ x.setAttribute(“href”, ‘<%=Encoder.encodeForJS(Encoder.encodeForURL(userRe
 var y = document.createTextElement(“Click Me To Test”);
 x.appendChild(y);
 document.body.appendChild(x);
+
+
+<!--  HTTP Headers to enhance security  -->
+// Let domain toggle on and off the "XSS Filter" of IE8, which prevents some categories of XSS attacks
+X-XSS-Protection: 1; mode=block
+// Force every browser request to be sent over TLS/SSL (this can prevent SSL strip attacks)
+Strict-Transport-Security: max-age=8640000; includeSubDomains

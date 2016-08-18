@@ -1,0 +1,219 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+	<title>Evolution of a Programmer - Hello, world!</title>
+</head><body>
+How the way people code “Hello World” varies depending on their age and job:
+	<center><H1>Hello, world!</H1></center>
+<hr>
+<div>
+<dl>
+<dt>High school/Jr. High
+<dd>
+<pre>
+10 PRINT "HELLO WORLD"
+20 END
+</pre>
+<hr>
+<dt>First year in college
+<dd>
+<pre>
+program Hello(input, output);
+  begin
+    writeln ('Hello world');
+  end
+</pre>
+<hr>
+<dt>Senior year in college
+<dd>
+<pre>
+(defun hello
+    (print
+        (cons 'HELLO (list 'WORLD))))
+</pre>
+<hr>
+<dt>New professional
+<dd>
+<pre>
+#include &lt;stdio.h&gt;
+main (argc,argv)
+    int argc;
+    char **argv;
+{
+    printf ("Hello World!\n");
+}
+</pre>
+<hr>
+<dt>Seasoned professional
+<dd>
+<pre>
+#include &lt;stream.h&gt;
+const int MAXLEN = 80;
+class outstring;
+class outstring {
+   private:
+   int size;
+   char str[MAXLEN];
+   public:
+   outstring() { size=0; }
+   ~outstring() {size=0;}
+   void print();
+   void assign(char *chrs);
+};
+void outstring::print() {
+  int i;
+  for (i=0 ; i< size ; i++)
+    cout << str[i];
+  cout << "\n";
+  }
+void outstring::assign(char *chrs) {
+  int i;
+  for (i=0; chrs[i] != '\0';i++)
+     str[i] = chrs[i];
+  size=i;
+  }
+main (int argc, char **argv) {
+  outstring string;
+    string.assign("Hello World!");
+  string.print();
+  }
+</pre>
+<hr>
+
+<h4>System Administrator</h4>
+
+<pre>
+ #include &lt;stdio.h&gt;
+ #include &lt;stdlib.h&gt;
+ main()
+ {
+  char *tmp;
+  int i=0;
+  /* on y va bourin */
+  tmp=(char *)malloc(1024*sizeof(char));
+  while (tmp[i]="Hello Wolrd"[i++]);
+  /* Ooopps y'a une infusion ! */
+  i=(int)tmp[8];
+  tmp[8]=tmp[9];
+  tmp[9]=(char)i;
+  printf("%s\n",tmp);
+ }
+</pre>
+
+<h4>Apprentice Hacker</h4>
+
+<pre>
+ #!/usr/local/bin/perl
+ $msg="Hello, world.\n";
+ if ($#ARGV &gt;= 0) {
+     while(defined($arg=shift(@ARGV))) {
+	 $outfilename = $arg;
+	 open(FILE, "&gt;" . $outfilename) || die "Can't write $arg: $!\n";
+	 print (FILE $msg);
+	 close(FILE) || die "Can't close $arg: $!\n";
+     }
+ } else {
+     print ($msg);
+ }
+ 1;
+</pre>
+
+<h4>Experienced Hacker</h4>
+
+<pre>
+ #include &lt;stdio.h&gt;
+ #include &lt;string.h&gt;
+ #define S "Hello, World\n"
+ main(){exit(printf(S) == strlen(S) ? 0 : 1);}
+</pre>
+
+<h4>Seasoned Hacker</h4>
+
+<pre>
+ % cc -o a.out ~/src/misc/hw/hw.c
+ % a.out
+ Hello, world.
+</pre>
+
+<h4>Guru Hacker</h4>
+
+<pre>
+ % cat
+ Hello, world.
+</pre>
+
+<h4>New Manager</h4>
+
+<pre>
+ 10 PRINT "HELLO WORLD"
+ 20 END
+</pre>
+
+<h4>Middle Manager</h4>
+
+<pre>
+ mail -s "Hello, world." bob@b12
+ Bob, could you please write me a program that prints "Hello, world."?
+ I need it by tomorrow.
+ ^D
+</pre>
+
+<dt>Manager
+<dd>
+<pre>
+George, I need a program to output a string "Hello World!"
+</pre>
+<hr>
+<dt>But the correct tool for the job is
+<dd>
+<pre>
+   #!/usr/bin/env python
+   print 'Hello World!'
+or:
+   #!/usr/bin/env perl
+   print 'Hello World!'
+</pre>
+<hr>
+<dt>And, of course, the GUI version:
+<dd>
+<pre>
+#!/usr/bin/wish
+button .h -text "Hello" -command {puts "Hello World!"}
+button .q -text "Quit" -command exit
+pack .h .q
+</pre>
+
+<h4>Chief Executive</h4>
+
+<pre>
+ % letter
+ letter: Command not found.
+ % mail
+ To: ^X ^F ^C
+ % help mail
+ help: Command not found.
+ % damn!
+ !: Event unrecognized
+ % logout
+</pre>
+
+<h4>Research Scientist</h4>
+
+<pre>
+	PROGRAM HELLO
+	PRINT *, 'Hello World'
+	END
+</pre>
+
+<h4>Older research Scientist</h4>
+
+<pre>
+	WRITE (6, 100)
+    100 FORMAT (1H ,11HHELLO WORLD)
+	CALL EXIT
+	END
+</pre>
+
+
+</dl>
+</div>
+</body></html>

@@ -1,0 +1,8 @@
+.chara {
+  transition: all 0.5s;
+  fill: #f7b976;
+}
+
+.chara:hover {
+  fill: #e52727;
+}

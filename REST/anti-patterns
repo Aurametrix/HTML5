@@ -1,0 +1,9 @@
+http://example.com/some-api?method=findCustomer&id=1234  # accidentally RESTful
+
+Cache-control: no-cache # ignoring caching
+
+# Ignoring status codes - when everything returns a 200, but the response is something like:
+   {
+     status: "fail",
+     error: "forbidden"
+   }

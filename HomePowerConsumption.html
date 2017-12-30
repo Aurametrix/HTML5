@@ -1,0 +1,209 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<link href="css/jquery-ui.1.11.2.min.css" rel="stylesheet" />
+<script src="js/jquery-1.11.1.min.js"></script>
+<script src="js/jquery-ui.1.11.2.min.js"></script>
+<script>
+
+//https://stackoverflow.com/questions/19491336/get-url-parameter-jquery-or-how-to-get-query-string-values-in-js
+$.urlParam = function(name){
+    var results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.href);
+    if (results) {
+        return results[1] || 0;
+    }
+    return 0;
+}
+
+$(document).ready(function(){
+    updateByHour();
+    updateTheRest();
+});
+
+function updateByHour() {
+    var postvars = { action: "byhour"};
+    if ($.urlParam('byHourDay') != 0) {
+        postvars.byHourDay = $.urlParam('byHourDay');
+    }
+
+    $.post( "api.php", postvars, function( result) {
+        result = $.parseJSON(result);
+        points = [];
+        $.each(result, function (i,v)
+        {
+              points.push({y:v, label: i+"h", indexLabelFontColor: "#000000",indexLabelPlacement:"inside", indexLabel:"{y}Wh"});
+        });
+
+        chart_title = "Hourly Consumption";
+        if (postvars.byHourDay) {
+            chart_title += " (" + decodeURIComponent(postvars.byHourDay) + ")";
+            $("#goback").fadeIn(600);
+        } else {
+            chart_title += " (today)";
+        }
+
+        var hourOptions= {
+        theme: "light2",
+        animationEnabled: true,
+        title: {
+            text: chart_title
+        },
+        data: [{
+            type: "column", //change it to line, area, bar, pie, etc
+            dataPoints: points
+            }]
+    };
+
+    $("#byHourContainer").CanvasJSChart(hourOptions)
+    });
+}
+
+function refreshByHour(day) {
+    if (day) {
+        window.history.pushState("", "","/wholehome/index.php?byHourDay=" + day);
+    } else {
+        window.history.pushState("", "","/wholehome/index.php");
+    }
+    updateByHour();
+}
+
+function updateTheRest() {
+    $.post( "api.php", { action: "byday"}, function( result) {
+        result = $.parseJSON(result);
+        points = [];
+        $.each(result, function (i,v)
+        {
+            points.push({y:v, label: i, indexLabelFontColor: "#000000", indexLabelPlacement:"inside", indexLabel:"{y}kWh", click: function(e) { refreshByHour(i); } });
+        });
+
+
+		var dayOptions= {
+			animationEnabled: true,
+				theme: "light2",
+				title:{
+				text: "Daily Consumption"
+			},
+				axisY2:{
+				prefix: "",
+	        //				lineThickness: 0
+			},
+				toolTip: {
+				shared: true
+			},
+				legend:{
+				verticalAlign: "top",
+				horizontalAlign: "center"
+			},
+			data: [
+				{
+					type: "bar",
+					name: "Kilowatt/Hour",
+					axisYType: "secondary",
+					//color: "#A87CA0",
+					dataPoints: points
+				}
+			]};
+		$("#byDayContainer").CanvasJSChart(dayOptions);
+
+	});
+
+    $.post( "api.php", { action: "byWeek"}, function( result) {
+        result = $.parseJSON(result);
+        points = [];
+        $.each(result, function (i,v)
+        {
+            points.push({y:v, label: i, indexLabelFontColor: "#000000", indexLabelPlacement:"inside", indexLabel:"{y}kWh"});
+        });
+
+
+		var monthOptions= {
+			animationEnabled: true,
+				theme: "light2",
+				title:{
+				text: "Weekly Consumption"
+			},
+				axisY2:{
+				prefix: "",
+	        //				lineThickness: 0
+			},
+				toolTip: {
+				shared: true
+			},
+				legend:{
+				verticalAlign: "top",
+				horizontalAlign: "center"
+			},
+			data: [
+				{
+					type: "bar",
+					name: "Kilowatt/Hour",
+					axisYType: "secondary",
+					//color: "#A87CA0",
+					dataPoints: points
+				}
+			]};
+		$("#byWeekContainer").CanvasJSChart(monthOptions);
+    });
+
+    $.post( "api.php", { action: "bymonth"}, function( result) {
+        result = $.parseJSON(result);
+        points = [];
+        $.each(result, function (i,v)
+        {
+            points.push({y:v, label: i, indexLabelFontColor: "#000000", indexLabelPlacement:"inside", indexLabel:"{y}kWh"});
+        });
+
+
+		var monthOptions= {
+			animationEnabled: true,
+				theme: "light2",
+				title:{
+				text: "Monthly Consumption"
+			},
+				axisY2:{
+				prefix: "",
+	        //				lineThickness: 0
+			},
+				toolTip: {
+				shared: true
+			},
+				legend:{
+				verticalAlign: "top",
+				horizontalAlign: "center"
+			},
+			data: [
+				{
+					type: "bar",
+					name: "Kilowatt/Hour",
+					axisYType: "secondary",
+					//color: "#A87CA0",
+					dataPoints: points
+				}
+			]};
+		$("#byMonthContainer").CanvasJSChart(monthOptions);
+
+	});
+}
+
+</script>
+</head>
+<body >
+<h1 style="color:#000000">Kilowattage</h1> <span id="goback" style="display:none;"><a href='' onclick='refreshByHour(); $("#goback").fadeOut(600); return false;' style="color:#000000">View Today</a></span><br />
+<p>
+<div class="resizable" style="height: 370px;border:1px solid gray;">
+    <div id="byHourContainer" style="height: 100%; width: 100%;"></div><br />
+</div>
+<div class="resizable" style="height: 370px;border:1px solid gray;">
+    <div id="byDayContainer" style="height: 100%; width: 100%;"></div>
+</div>
+<div class="resizable" style="height: 370px;border:1px solid gray;">
+    <div id="byWeekContainer" style="height: 100%; width: 100%;"></div>
+</div>
+<div class="resizable" style="height: 370px;border:1px solid gray;">
+    <div id="byMonthContainer" style="height: 100%; width: 100%;"></div>
+</div>
+
+</p>
+<script src="js/jquery.canvasjs.min.js"></script>
+</body>
+</html>

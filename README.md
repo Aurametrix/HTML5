@@ -28,3 +28,5 @@ https://www.udemy.com/learn-html5-programming-from-scratch/
 Microsoft Virtual Academy
 
 http://www.microsoftvirtualacademy.com/training-courses/learn-html5-with-javascript-css3-jumpstart-training
+
+[Bootstrap vs CSS grid](https://hackernoon.com/how-css-grid-beats-bootstrap-85d5881cf163)

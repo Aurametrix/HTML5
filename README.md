@@ -16,3 +16,18 @@
 + [Bootstrap vs CSS grid](https://hackernoon.com/how-css-grid-beats-bootstrap-85d5881cf163)
 
 + [HTML5 semantics](https://codepen.io/mi-lee/post/an-overview-of-html5-semantics)
+
+#### web developer tools
+
++ [Web Development 2018](https://github.com/kamranahmedse/developer-roadmap/blob/master/README.md):
+
+Front end
+JS ->ES6, Task runners: npm scripts, gulp, Grunt; Tsting: Jest, Mocha, Jasmine, Enzyme
+Module Loader/Bundler; Typescript; [Flow](https://flow.org/) - static type checker for JS
+Frameworks: Angular (RxJS, TypeScript), React (Flux, Redux, Mobx), Vue.js. Preact, Ember.js
+WebGL frameworks: ThreeJS, BabylonJS, PlayCanvas, P5.js, Sketchfab, AFrame, REGL, Unity.
+Back-end: [Ruby](https://github.com/Aurametrix/Health3.0), [Node.js](https://github.com/Aurametrix/Node.js), [Python](https://github.com/Aurametrix/Alg), 
+Elastic Search - Search Engines, GOF Design PAtterns, Architectural patterns, DDD; Sphins, Solr
+DevOps:
+OS, clous, setting up a firewall; Monitoring and Alerting
+text manipulation (grep; egrep and fgrep are deprecated; awk, sed, )

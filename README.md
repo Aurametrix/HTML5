@@ -17,6 +17,9 @@
 
 + [HTML5 semantics](https://codepen.io/mi-lee/post/an-overview-of-html5-semantics)
 
++ [web workers](https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a) - lightweight, in-browser threads that can be used to execute JavaScript code without blocking the event loop
+
+
 #### web developer tools
 
 + [Web Development 2018](https://github.com/kamranahmedse/developer-roadmap/blob/master/README.md):

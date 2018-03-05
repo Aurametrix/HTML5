@@ -39,3 +39,9 @@ text manipulation (grep; egrep and fgrep are deprecated; awk, sed, )
 #### Interview Handbooks
 + [HTML](https://github.com/yangshun/front-end-interview-handbook#html-questions)
 + [CSS](https://github.com/yangshun/front-end-interview-handbook#css-questions)
+
+
+#### Easy website builders
++ [A Dropbox-like, IPFS-powered personal website publisher](https://hearth.eternum.io/)
++ [Beaker, peer-to-peer browser](https://beakerbrowser.com/)
++ [Hithub templates](https://github.com/website-templates)

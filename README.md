@@ -21,6 +21,8 @@
 
 + [CSS snippets](https://atomiks.github.io/30-seconds-of-css/)
 
++ [forms for static sites](https://jumprock.co/)
+
 #### web developer tools
 
 + [Web Development 2018](https://github.com/kamranahmedse/developer-roadmap/blob/master/README.md):

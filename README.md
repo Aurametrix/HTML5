@@ -4,6 +4,8 @@
 
 + [Online bootcamp](https://www.bloc.io/)
 
++ [tools and technologies](https://se-edu.github.io/se-book/)
+
 + [Code avengers - lessons on how to code](http://www.codeavengers.com/)
 
 

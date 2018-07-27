@@ -2,6 +2,8 @@
 
 + [Just-add-water CSS animations](http://daneden.github.io/animate.css/)
 
++ [css grid generator](https://www.layoutit.com/grid)
+
 + [Online bootcamp](https://www.bloc.io/)
 
 + [tools and technologies](https://se-edu.github.io/se-book/)

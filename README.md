@@ -27,6 +27,10 @@
 
 + [forms for static sites](https://jumprock.co/)
 
+
+### https
+[automated https server](https://github.com/SteveLTN/https-portal)
+
 #### web developer tools
 
 + [Web Development 2018](https://github.com/kamranahmedse/developer-roadmap/blob/master/README.md):
@@ -43,6 +47,9 @@ Elastic Search - Search Engines, GOF Design PAtterns, Architectural patterns, DD
 DevOps:
 OS, clous, setting up a firewall; Monitoring and Alerting
 text manipulation (grep; egrep and fgrep are deprecated; awk, sed, )
+
+#### hhtps
+
 
 #### Interview Handbooks
 + [HTML](https://github.com/yangshun/front-end-interview-handbook#html-questions)

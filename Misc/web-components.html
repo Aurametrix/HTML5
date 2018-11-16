@@ -1,0 +1,21 @@
+class GreetingElement extends HTMLElement {
+  constructor() {
+    super();
+    this.name = 'Stranger';
+  }
+  connectedCallback() {
+    this.addEventListener('click', e => alert(`Hello, ${this.name}!`));
+  }
+  attributeChangedCallback(attrName, oldValue, newValue) {
+    if (attrName === 'name') {
+      if (newValue) {
+        this.name = newValue;
+      } else {
+        this.name = 'Stranger';
+      }
+    }
+    
+      }
+}
+GreetingElement.observedAttributes = ['name'];
+customElements.define('hey-there', GreetingElement);

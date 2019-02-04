@@ -4,6 +4,8 @@
 
 + [css grid generator](https://www.layoutit.com/grid)
 
++ [CSS Reference](https://cssreference.io/)
+
 + [Online bootcamp](https://www.bloc.io/)
 
 + [tools and technologies](https://se-edu.github.io/se-book/)

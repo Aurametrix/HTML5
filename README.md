@@ -31,7 +31,8 @@
 
 
 ### https
-[automated https server](https://github.com/SteveLTN/https-portal)
++[automated https server](https://github.com/SteveLTN/https-portal)
++[HTTP/3 explained](https://http3-explained.haxx.se/en/)
 
 #### web developer tools
 

@@ -30,9 +30,12 @@
 + [forms for static sites](https://jumprock.co/)
 
 
-### https
-+[automated https server](https://github.com/SteveLTN/https-portal)
-+[HTTP/3 explained](https://http3-explained.haxx.se/en/)
+### HTTPS
++ [automated https server](https://github.com/SteveLTN/https-portal)
++ [HTTP/3 explained](https://http3-explained.haxx.se/en/)
++ [Security Guide for Web developers](https://github.com/FallibleInc/security-guide-for-developers)
+
++ [uniqueness of passwords](https://haveibeenpwned.com/Passwords)
 
 #### web developer tools
 

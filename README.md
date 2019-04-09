@@ -6,6 +6,8 @@
 
 + [CSS Reference](https://cssreference.io/)
 
++ [CSS tips](https://jrl.ninja/etc/1/)
+
 + [Online bootcamp](https://www.bloc.io/)
 
 + [tools and technologies](https://se-edu.github.io/se-book/)
@@ -26,6 +28,8 @@
 + [web workers](https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a) - lightweight, in-browser threads that can be used to execute JavaScript code without blocking the event loop
 
 + [CSS snippets](https://atomiks.github.io/30-seconds-of-css/)
+
++[web design in 4 mins](https://jgthms.com/web-design-in-4-minutes/)
 
 + [forms for static sites](https://jumprock.co/)
 

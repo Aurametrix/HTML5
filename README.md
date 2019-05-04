@@ -38,6 +38,7 @@
 + [automated https server](https://github.com/SteveLTN/https-portal)
 + [HTTP/3 explained](https://http3-explained.haxx.se/en/)
 + [Security Guide for Web developers](https://github.com/FallibleInc/security-guide-for-developers)
++ [HTTPSTAT](https://github.com/reorx/httpstat)
 
 + [uniqueness of passwords](https://haveibeenpwned.com/Passwords)
 

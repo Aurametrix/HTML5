@@ -43,6 +43,8 @@
 
 + [uniqueness of passwords](https://haveibeenpwned.com/Passwords)
 
++ [Next DNS](https://www.nextdns.io/)
+
 #### web developer tools
 
 + [Web Development 2018](https://github.com/kamranahmedse/developer-roadmap/blob/master/README.md)

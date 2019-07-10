@@ -77,6 +77,7 @@ OS, clous, setting up a firewall; Monitoring and Alerting
 text manipulation (grep; egrep and fgrep are deprecated; awk, sed, )
 
 
++ [robots.txt: not for security0(https://www.cdsrc.com/posts/robots-txt-security-measure/)
 
 
 #### Interview Handbooks

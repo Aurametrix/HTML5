@@ -47,6 +47,8 @@
 
 + [Check the status of your URL](https://www.brotandgames.com/ciao/); [github](https://github.com/brotandgames/ciao)
 
++ [SAML authentication](https://gravitational.com/blog/how-saml-authentication-works/)
+
 #### web developer tools
 
 + [Web Development 2018](https://github.com/kamranahmedse/developer-roadmap/blob/master/README.md)

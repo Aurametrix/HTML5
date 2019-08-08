@@ -56,6 +56,9 @@
 + [making page load faster](https://instant.page/)
 
     <script src="//instant.page/1.0.0" type="module" integrity="sha384-6w2SekMzCkuMQ9sEbq0cLviD/yR2HfA/+ekmKiBnFlsoSvb/VmQFSi/umVShadQI"></script>
+    
+    
++ [Why is web development so complicated?](https://www.vrk.dev/2019/07/11/why-is-modern-web-development-so-complicated-a-long-yet-hasty-explanation-part-1/)    
 
 #### Front end
 JS ->ES6, Task runners: npm scripts, gulp, Grunt; Tsting: Jest, Mocha, Jasmine, Enzyme

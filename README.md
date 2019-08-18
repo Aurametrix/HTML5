@@ -96,3 +96,6 @@ text manipulation (grep; egrep and fgrep are deprecated; awk, sed, )
 + [A Dropbox-like, IPFS-powered personal website publisher](https://hearth.eternum.io/)
 + [Beaker, peer-to-peer browser](https://beakerbrowser.com/)
 + [Hithub templates](https://github.com/website-templates)
+
+$$$
++ [Start Your Own ISP](https://startyourownisp.com/)

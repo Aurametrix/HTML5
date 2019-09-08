@@ -49,6 +49,9 @@
 
 + [SAML authentication](https://gravitational.com/blog/how-saml-authentication-works/)
 
+[DNS-over-HTTPS](https://uk.godaddy.com/engineering/2019/09/04/doh-concerns/): Privacy and Security Concerns
+
+
 #### web developer tools
 
 + [Web Development 2018](https://github.com/kamranahmedse/developer-roadmap/blob/master/README.md)

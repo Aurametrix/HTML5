@@ -93,6 +93,8 @@ text manipulation (grep; egrep and fgrep are deprecated; awk, sed, )
 
 + [robots.txt: not for security0(https://www.cdsrc.com/posts/robots-txt-security-measure/)
 
++ [Free for developers](https://free-for.dev/#/)
+
 
 #### Interview Handbooks
 + [HTML](https://github.com/yangshun/front-end-interview-handbook#html-questions)

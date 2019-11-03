@@ -95,6 +95,9 @@ text manipulation (grep; egrep and fgrep are deprecated; awk, sed, )
 
 + [Free for developers](https://free-for.dev/#/)
 
++ [web site speed test](https://webtest.app/); [code](https://github.com/aberforthQ/puppeteer-split-test)
+
++ [non cookie-based web tracking](https://news.ycombinator.com/item?id=21433305)
 
 #### Interview Handbooks
 + [HTML](https://github.com/yangshun/front-end-interview-handbook#html-questions)

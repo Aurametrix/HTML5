@@ -63,6 +63,8 @@
     
 + [Why is web development so complicated?](https://www.vrk.dev/2019/07/11/why-is-modern-web-development-so-complicated-a-long-yet-hasty-explanation-part-1/)    
 
++ [Static Site generator](https://github.com/sunainapai/makesite)
+
 #### Front end
 JS ->ES6, Task runners: npm scripts, gulp, Grunt; Tsting: Jest, Mocha, Jasmine, Enzyme
 Module Loader/Bundler; Typescript; [Flow](https://flow.org/) - static type checker for JS

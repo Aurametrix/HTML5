@@ -73,7 +73,14 @@ WebGL frameworks: ThreeJS, BabylonJS, PlayCanvas, P5.js, Sketchfab, AFrame, REGL
 
 [Quick mockups](https://github.com/jdittrich/quickMockup)
 
-Back-end: [Ruby](https://github.com/Aurametrix/Health3.0), [Node.js](https://github.com/Aurametrix/Node.js), [Python](https://github.com/Aurametrix/Alg), 
+[making data discoverable]https://developers.google.com/search/docs/data-types/dataset
+    + [schema.org markup](https://schema.org/Dataset)
+    + [sitemap](https://support.google.com/webmasters/answer/183668)
+
+#### Back end
++ [Ruby](https://github.com/Aurametrix/Health3.0), 
++ [Node.js](https://github.com/Aurametrix/Node.js), 
++ [Python](https://github.com/Aurametrix/Alg), 
 
 
 [Luda](https://github.com/oatw/luda) - UI for web development

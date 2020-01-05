@@ -95,7 +95,7 @@ Elastic Search - Search Engines, GOF Design PAtterns, Architectural patterns, DD
 
 #### DevOps:
 
-OS, clous, setting up a firewall; Monitoring and Alerting
+OS, clouds, setting up a firewall; Monitoring and Alerting
 
 text manipulation (grep; egrep and fgrep are deprecated; awk, sed, )
 
@@ -107,6 +107,8 @@ text manipulation (grep; egrep and fgrep are deprecated; awk, sed, )
 + [web site speed test](https://webtest.app/); [code](https://github.com/aberforthQ/puppeteer-split-test)
 
 + [non cookie-based web tracking](https://news.ycombinator.com/item?id=21433305)
+
++ [Serverless e-mail server](https://github.com/0x4447/0x4447_product_s3_email), AWS S3 SES setup
 
 #### Interview Handbooks
 + [HTML](https://github.com/yangshun/front-end-interview-handbook#html-questions)

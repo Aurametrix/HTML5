@@ -76,6 +76,8 @@ WebGL frameworks: ThreeJS, BabylonJS, PlayCanvas, P5.js, Sketchfab, AFrame, REGL
 [making data discoverable]https://developers.google.com/search/docs/data-types/dataset
     + [schema.org markup](https://schema.org/Dataset)
     + [sitemap](https://support.google.com/webmasters/answer/183668)
+    
+ [color palettes](https://colors.lol/)   
 
 #### Back end
 + [Ruby](https://github.com/Aurametrix/Health3.0), 
@@ -122,3 +124,7 @@ text manipulation (grep; egrep and fgrep are deprecated; awk, sed, )
 
 $$$
 + [Start Your Own ISP](https://startyourownisp.com/)
+
+##### Interesting Projects
+
++[Covid19 simulator](https://hzub.github.io/infection-simulator/)

@@ -1,5 +1,7 @@
 + [W3schools HTML5](http://www.w3schools.com/html/html5_intro.asp)
 
++ [new.css](https://newcss.net/) - a classless CSS framework to write modern websites using only HTML
+
 + [Just-add-water CSS animations](http://daneden.github.io/animate.css/)
 
 + [css grid generator](https://www.layoutit.com/grid)

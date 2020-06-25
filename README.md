@@ -18,7 +18,7 @@
 
 + [Code avengers - lessons on how to code](http://www.codeavengers.com/)
 
-
++ [Colors](https://lyty.dev/html/html-color.html)
 + [Online courses](https://onemonth.com/)
 
 + [HTML5 programming  - Udemy](https://www.udemy.com/learn-html5-programming-from-scratch/)

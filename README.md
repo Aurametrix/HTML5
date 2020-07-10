@@ -10,6 +10,8 @@
 
 + [CSS tips](https://jrl.ninja/etc/1/)
 
++ [UI editor for single-element CSS illustrations](https://zerodivs.com/#/)
+
 + [Hex grids](https://ninjarockstar.dev/css-hex-grids/) [hexagons](https://www.redblobgames.com/grids/hexagons/)
 
 + [Online bootcamp](https://www.bloc.io/)

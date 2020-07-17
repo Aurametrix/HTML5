@@ -9,6 +9,7 @@
 + [CSS Reference](https://cssreference.io/)
 
 + [CSS tips](https://jrl.ninja/etc/1/)
++ [CSS for designers] (https://cssfordesigners.com/articles/things-i-wish-id-known-about-css)
 
 + [UI editor for single-element CSS illustrations](https://zerodivs.com/#/)
 

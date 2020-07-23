@@ -9,7 +9,8 @@
 + [CSS Reference](https://cssreference.io/)
 
 + [CSS tips](https://jrl.ninja/etc/1/)
-+ [CSS for designers] (https://cssfordesigners.com/articles/things-i-wish-id-known-about-css)
+
++ [CSS for designers](https://cssfordesigners.com/articles/things-i-wish-id-known-about-css)
 
 + [UI editor for single-element CSS illustrations](https://zerodivs.com/#/)
 
@@ -36,7 +37,7 @@
 
 + [CSS snippets](https://atomiks.github.io/30-seconds-of-css/)
 
-+[web design in 4 mins](https://jgthms.com/web-design-in-4-minutes/)
++ [web design in 4 mins](https://jgthms.com/web-design-in-4-minutes/)
 
 + [forms for static sites](https://jumprock.co/)
 
@@ -129,9 +130,10 @@ text manipulation (grep; egrep and fgrep are deprecated; awk, sed, )
 + [Beaker, peer-to-peer browser](https://beakerbrowser.com/)
 + [Hithub templates](https://github.com/website-templates)
 
-$$$
+
 + [Start Your Own ISP](https://startyourownisp.com/)
 
 ##### Interesting Projects
 
-+[Covid19 simulator](https://hzub.github.io/infection-simulator/)
++  [CSS sweeper](https://github.com/propjockey/css-sweeper#readme)
++ [Covid19 simulator](https://hzub.github.io/infection-simulator/)

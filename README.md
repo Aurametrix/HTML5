@@ -22,7 +22,7 @@
 
 + [Code avengers - lessons on how to code](http://www.codeavengers.com/)
 
-+ [Colors](https://lyty.dev/html/html-color.html)
+
 + [Online courses](https://onemonth.com/)
 
 + [HTML5 programming  - Udemy](https://www.udemy.com/learn-html5-programming-from-scratch/)
@@ -40,6 +40,13 @@
 + [web design in 4 mins](https://jgthms.com/web-design-in-4-minutes/)
 
 + [forms for static sites](https://jumprock.co/)
+
+
+### Colors
++ [HTML Colors](https://lyty.dev/html/html-color.html)
++ [W3 Tutorial](https://www.w3schools.com/colors/)
++ [color palettes](https://colors.lol/)   
++ [Colorbox]https://www.colorbox.io/
 
 
 ### HTTP/HTTPS
@@ -85,7 +92,7 @@ WebGL frameworks: ThreeJS, BabylonJS, PlayCanvas, P5.js, Sketchfab, AFrame, REGL
     + [schema.org markup](https://schema.org/Dataset)
     + [sitemap](https://support.google.com/webmasters/answer/183668)
     
- [color palettes](https://colors.lol/)   
+
 
 #### Back end
 + [Ruby](https://github.com/Aurametrix/Health3.0), 

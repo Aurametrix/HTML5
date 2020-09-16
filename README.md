@@ -55,6 +55,7 @@
 + [HTTP headers](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)
 + [Security Guide for Web developers](https://github.com/FallibleInc/security-guide-for-developers)
 + [HTTPSTAT](https://github.com/reorx/httpstat)
++ [how https worked](https://howhttps.works/) and [works now](https://maggieappleton.com/api)
 
 + [uniqueness of passwords](https://haveibeenpwned.com/Passwords)
 

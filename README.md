@@ -56,7 +56,7 @@
 + [Security Guide for Web developers](https://github.com/FallibleInc/security-guide-for-developers)
 + [HTTPSTAT](https://github.com/reorx/httpstat)
 + [how https worked](https://howhttps.works/) and [works now](https://maggieappleton.com/api)
-
++ [HTTP toolkit for security research](https://github.com/dstotijn/hetty)
 + [uniqueness of passwords](https://haveibeenpwned.com/Passwords)
 
 + [Next DNS](https://www.nextdns.io/)

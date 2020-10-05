@@ -12,6 +12,8 @@
 
 + [CSS for designers](https://cssfordesigners.com/articles/things-i-wish-id-known-about-css)
 
++ [Full-bleed layout using CSS](https://joshwcomeau.com/css/full-bleed/)
+
 + [UI editor for single-element CSS illustrations](https://zerodivs.com/#/)
 
 + [Hex grids](https://ninjarockstar.dev/css-hex-grids/) [hexagons](https://www.redblobgames.com/grids/hexagons/)

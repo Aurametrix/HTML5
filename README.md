@@ -140,8 +140,8 @@ text manipulation (grep; egrep and fgrep are deprecated; awk, sed, )
 + [Beaker, peer-to-peer browser](https://beakerbrowser.com/)
 + [Hithub templates](https://github.com/website-templates)
 + [AI-generated domain names](https://www.domainsfortherestofus.com/)
-
 + [Start Your Own ISP](https://startyourownisp.com/)
++ [static (serverless) status page](https://github.com/cstate)
 
 ##### Interesting Projects
 

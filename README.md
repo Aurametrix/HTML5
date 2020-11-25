@@ -86,7 +86,7 @@
 + [Static Site generator](https://github.com/sunainapai/makesite)
 
 #### Front end
-JS ->ES6, Task runners: npm scripts, gulp, Grunt; Tsting: Jest, Mocha, Jasmine, Enzyme
+JS ->ES6, Task runners: npm scripts, gulp, Grunt; Testing: Jest, Mocha, Jasmine, Enzyme
 Module Loader/Bundler; Typescript; [Flow](https://flow.org/) - static type checker for JS
 Frameworks: Angular (RxJS, TypeScript), React (Flux, Redux, Mobx), Vue.js. Preact, Ember.js
 WebGL frameworks: ThreeJS, BabylonJS, PlayCanvas, P5.js, Sketchfab, AFrame, REGL, Unity.
@@ -136,16 +136,34 @@ text manipulation (grep; egrep and fgrep are deprecated; awk, sed, )
 + [HTML](https://github.com/yangshun/front-end-interview-handbook#html-questions)
 + [CSS](https://github.com/yangshun/front-end-interview-handbook#css-questions)
 
+#### Beautiful and Clean Templates
+
+   "classless" CSS frameworks:
++ https://newcss.net/
++ https://uglyduck.ca/typesafe-css/
++ https://oxal.org/projects/sakura/
+   
+   Bootstrap
++ https://getbootstrap.com/
++ https://bootswatch.com/
+
+Boolma
++ https://bulma.io/
+
+
+A minimalist stylesheet for HTML elements
++ https://andybrewer.github.io/mvp/
++ [Github templates](https://github.com/website-templates)
 
 #### Easy website builders
 + [A Dropbox-like, IPFS-powered personal website publisher](https://hearth.eternum.io/)
 + [Beaker, peer-to-peer browser](https://beakerbrowser.com/)
-+ [Hithub templates](https://github.com/website-templates)
+
 + [AI-generated domain names](https://www.domainsfortherestofus.com/)
 + [Start Your Own ISP](https://startyourownisp.com/)
 + [static (serverless) status page](https://github.com/cstate)
 
 ##### Interesting Projects
 
-+  [CSS sweeper](https://github.com/propjockey/css-sweeper#readme)
++ [CSS sweeper](https://github.com/propjockey/css-sweeper#readme)
 + [Covid19 simulator](https://hzub.github.io/infection-simulator/)

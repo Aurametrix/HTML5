@@ -86,7 +86,11 @@
 + [Static Site generator](https://github.com/sunainapai/makesite)
 
 #### Front end
-JS ->ES6, Task runners: npm scripts, gulp, Grunt; Testing: Jest, Mocha, Jasmine, Enzyme
+
++ [The NOJS club](https://nojs.club/)
+
++ JS ->ES6, Task runners: npm scripts, 
++ gulp, Grunt; Testing: Jest, Mocha, Jasmine, Enzyme
 Module Loader/Bundler; Typescript; [Flow](https://flow.org/) - static type checker for JS
 Frameworks: Angular (RxJS, TypeScript), React (Flux, Redux, Mobx), Vue.js. Preact, Ember.js
 WebGL frameworks: ThreeJS, BabylonJS, PlayCanvas, P5.js, Sketchfab, AFrame, REGL, Unity.

@@ -11,6 +11,7 @@
 + [CSS tips](https://jrl.ninja/etc/1/)
 
 + [CSS for designers](https://cssfordesigners.com/articles/things-i-wish-id-known-about-css)
++ [css animations in github readme](https://github.com/sindresorhus/css-in-readme-like-wat)
 
 + [Full-bleed layout using CSS](https://joshwcomeau.com/css/full-bleed/)
 

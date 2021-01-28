@@ -27,6 +27,7 @@
 
 + [Code avengers - lessons on how to code](http://www.codeavengers.com/)
 
++ [Effectiveness of simple HTML](https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/)
 
 + [Online courses](https://onemonth.com/)
 

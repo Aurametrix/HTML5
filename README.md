@@ -54,6 +54,8 @@
 + [color palettes](https://colors.lol/)   
 + [Colorbox]https://www.colorbox.io/
 
+### Shapes
++ [SVG shape generator](https://www.softr.io/tools/svg-shape-generator)
 
 ### HTTP/HTTPS
 + [automated https server](https://github.com/SteveLTN/https-portal)

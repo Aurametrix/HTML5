@@ -73,8 +73,13 @@
 
 + [SAML authentication](https://gravitational.com/blog/how-saml-authentication-works/)
 
-[DNS-over-HTTPS](https://uk.godaddy.com/engineering/2019/09/04/doh-concerns/): Privacy and Security Concerns
++ [DNS-over-HTTPS](https://uk.godaddy.com/engineering/2019/09/04/doh-concerns/): Privacy and Security Concerns
++ [A visual guide to SSH tunnels](https://robotmoon.com/ssh-tunnels/)
 
+if you ssh into Server A and then from Server A to Server B:
+
+    ~~.   # drop session from Server A to Server B
+    ~.    # drop original session into Server A
 
 #### web developer tools
 

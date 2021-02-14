@@ -44,6 +44,7 @@
 + [CSS snippets](https://atomiks.github.io/30-seconds-of-css/)
 
 + [web design in 4 mins](https://jgthms.com/web-design-in-4-minutes/)
++ [Simple website builder](https://straw.page/?)
 
 + [forms for static sites](https://jumprock.co/)
 

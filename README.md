@@ -177,6 +177,10 @@ A minimalist stylesheet for HTML elements
 + [Start Your Own ISP](https://startyourownisp.com/)
 + [static (serverless) status page](https://github.com/cstate)
 
+
++ [Syntax Highlighting in a Webpage Without Javascript](https://fctorial.github.io/posts/syntax_highlighting_nojs.html)
+
+
 ##### Interesting Projects
 
 + [CSS sweeper](https://github.com/propjockey/css-sweeper#readme)

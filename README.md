@@ -9,6 +9,7 @@
 + [CSS Reference](https://cssreference.io/)
 
 + [CSS tips](https://jrl.ninja/etc/1/)
++ + [CSS-based design](http://www.csszengarden.com/)
 
 + [CSS for designers](https://cssfordesigners.com/articles/things-i-wish-id-known-about-css)
 + [css animations in github readme](https://github.com/sindresorhus/css-in-readme-like-wat)
@@ -107,6 +108,8 @@ WebGL frameworks: ThreeJS, BabylonJS, PlayCanvas, P5.js, Sketchfab, AFrame, REGL
 
 [Quick mockups](https://github.com/jdittrich/quickMockup)
 
+[web components](https://github.com/github/catalyst)
+
 [making data discoverable]https://developers.google.com/search/docs/data-types/dataset
     + [schema.org markup](https://schema.org/Dataset)
     + [sitemap](https://support.google.com/webmasters/answer/183668)
@@ -145,6 +148,9 @@ text manipulation (grep; egrep and fgrep are deprecated; awk, sed, )
 + [non cookie-based web tracking](https://news.ycombinator.com/item?id=21433305)
 
 + [Serverless e-mail server](https://github.com/0x4447/0x4447_product_s3_email), AWS S3 SES setup
+
+
+
 
 #### Interview Handbooks
 + [HTML](https://github.com/yangshun/front-end-interview-handbook#html-questions)
@@ -188,3 +194,4 @@ A minimalist stylesheet for HTML elements
 
 ### Trends
 + [The Future of Web Software Is HTML-over-WebSockets](https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/)
++ [Locality of Behavior](https://htmx.org/essays/locality-of-behaviour/); see also AllpineJS and Tailwinds

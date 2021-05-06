@@ -114,7 +114,7 @@ WebGL frameworks: ThreeJS, BabylonJS, PlayCanvas, P5.js, Sketchfab, AFrame, REGL
     + [schema.org markup](https://schema.org/Dataset)
     + [sitemap](https://support.google.com/webmasters/answer/183668)
     
-
+[HTML tips](https://markodenic.com/html-tips/)
 
 #### Back end
 + [Ruby](https://github.com/Aurametrix/Health3.0), 

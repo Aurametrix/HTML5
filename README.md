@@ -136,6 +136,8 @@ WebGL frameworks: ThreeJS, BabylonJS, PlayCanvas, P5.js, Sketchfab, AFrame, REGL
 
 Elastic Search - Search Engines, GOF Design PAtterns, Architectural patterns, DDD; Sphins, Solr
 
+No longer works for Python Open Source: https://github.com/elastic/elasticsearch-py/pull/1623
+
 
 
 #### DevOps:

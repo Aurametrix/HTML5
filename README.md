@@ -155,7 +155,9 @@ text manipulation (grep; egrep and fgrep are deprecated; awk, sed, )
 
 + [non cookie-based web tracking](https://news.ycombinator.com/item?id=21433305)
 
-+ [Serverless e-mail server](https://github.com/0x4447/0x4447_product_s3_email), AWS S3 SES setup
++ [Serverless e-mail server](https://github.com/0x4447/0x4447_product_s3_email), AWS S3 SES 
+
++ [injecting env variables into static sites using Nginx](https://www.innoq.com/de/blog/nginx-ssi-env/)
 
 
 

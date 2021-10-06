@@ -201,6 +201,7 @@ A minimalist stylesheet for HTML elements
 
 + [CSS sweeper](https://github.com/propjockey/css-sweeper#readme)
 + [Covid19 simulator](https://hzub.github.io/infection-simulator/)
++ [moovie-focused html5 player](https://github.com/BMSVieira/moovie.js)
 
 ### Trends
 + [The Future of Web Software Is HTML-over-WebSockets](https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/)

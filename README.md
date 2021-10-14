@@ -50,6 +50,7 @@
 
 + [forms for static sites](https://jumprock.co/)
 + [HTML sanitizer API](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Sanitizer_API); [source on github](https://github.com/mdn/content/blob/main/files/en-us/web/api/html_sanitizer_api/index.html)
++ [](https://www.w3.org/TR/webdriver2/Web Driver) - web framework for cross-browser tests
 
 
 ### Colors

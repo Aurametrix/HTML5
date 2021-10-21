@@ -72,6 +72,7 @@
 + [how https worked](https://howhttps.works/) and [works now](https://maggieappleton.com/api)
 + [HTTP toolkit for security research](https://github.com/dstotijn/hetty)
 + [uniqueness of passwords](https://haveibeenpwned.com/Passwords)
++ [New HTTP standards for caching on the modern web](https://httptoolkit.tech/blog/status-targeted-caching-headers/)
 
 + [Next DNS](https://www.nextdns.io/)
 

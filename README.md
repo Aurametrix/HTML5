@@ -9,18 +9,22 @@
 + [CSS Reference](https://cssreference.io/)
 
 + [CSS tips](https://jrl.ninja/etc/1/)
-+ + [CSS-based design](http://www.csszengarden.com/)
-
-+ [CSS for designers](https://cssfordesigners.com/articles/things-i-wish-id-known-about-css)
-+ [css animations in github readme](https://github.com/sindresorhus/css-in-readme-like-wat)
+  + [CSS-based design](http://www.csszengarden.com/)
+  + [ct.css](https://github.com/csswizardry/ct) - performance diagnostics; take a look inside your <head>
+  + [CSS for designers](https://cssfordesigners.com/articles/things-i-wish-id-known-about-css)
+  + [css animations in github readme](https://github.com/sindresorhus/css-in-readme-like-wat)
+  + [Full-bleed layout using CSS](https://joshwcomeau.com/css/full-bleed/)
+  + [Interactive CSS grid generator](https://grid.layoutit.com/)
+    
+    
 + [Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
 + [WEBP format](https://caniuse.com/webp)
 
-+ [Full-bleed layout using CSS](https://joshwcomeau.com/css/full-bleed/)
 
+    
 + [UI editor for single-element CSS illustrations](https://zerodivs.com/#/)
 
-+ [Interactive CSS grid generator](https://grid.layoutit.com/)
+
 
 + [Hex grids](https://ninjarockstar.dev/css-hex-grids/) [hexagons](https://www.redblobgames.com/grids/hexagons/)
 
@@ -58,7 +62,7 @@
 + [HTML Colors](https://lyty.dev/html/html-color.html)
 + [W3 Tutorial](https://www.w3schools.com/colors/)
 + [color palettes](https://colors.lol/)   
-+ [Colorbox]https://www.colorbox.io/
++ [Colorbox](https://www.colorbox.io/)
 
 ### Shapes
 + [SVG shape generator](https://www.softr.io/tools/svg-shape-generator)

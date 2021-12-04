@@ -122,6 +122,8 @@ WebGL frameworks: ThreeJS, BabylonJS, PlayCanvas, P5.js, Sketchfab, AFrame, REGL
 [Quick mockups](https://github.com/jdittrich/quickMockup)
 
 [web components](https://github.com/github/catalyst)
+  
+[ruby html annotation element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ruby)
 
 [making data discoverable]https://developers.google.com/search/docs/data-types/dataset
     + [schema.org markup](https://schema.org/Dataset)

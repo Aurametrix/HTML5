@@ -21,6 +21,8 @@
     
 + [Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
 + [WEBP format](https://caniuse.com/webp)
+  
++ [Web 0](https://elliott.computer/pages/web0.html)   - no JS, CSS, raw html
 
 
     

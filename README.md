@@ -1,4 +1,6 @@
 + [W3schools HTML5](http://www.w3schools.com/html/html5_intro.asp)
++ [In-browser editor for static HTML](https://triplelog.com/writer/)
+
 
 + [new.css](https://newcss.net/) - a classless CSS framework to write modern websites using only HTML
 

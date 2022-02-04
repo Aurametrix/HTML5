@@ -19,6 +19,8 @@
   + [Interactive CSS grid generator](https://grid.layoutit.com/)
   
  + [Tailwind CSS](https://tailwindcss.com/blog/tailwindcss-v3)
+  
+ + [Connect to a DB in CSS](https://www.leemeichin.com/posts/yes-i-can-connect-to-a-db-in-css.html)
     
     
 + [Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)

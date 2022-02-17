@@ -70,8 +70,9 @@
 ### Colors
 + [HTML Colors](https://lyty.dev/html/html-color.html)
 + [W3 Tutorial](https://www.w3schools.com/colors/)
-+ [color palettes](https://colors.lol/)   
++ [Color palettes](https://colors.lol/)   
 + [Colorbox](https://www.colorbox.io/)
++ [Hue Tools](https://hue.tools/?format=hex)  
 
 ### Shapes
 + [SVG shape generator](https://www.softr.io/tools/svg-shape-generator)

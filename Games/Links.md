@@ -18,6 +18,10 @@ HTML5 Game Development Bookmarks
 	<li><a href="http://www.amazon.co.uk/HTML5-Game-Engines-Development-Distribution/dp/1466594004/ref=sr_1_20?ie=UTF8&qid=1381523522&sr=8-20&keywords=html5+game+development">HTML5 Game Engines: App Development and Distribution</a></li>
 	<li><a href="http://www.amazon.co.uk/Releasing-HTML5-Games-Windows-8/dp/1449360505/ref=sr_1_24?ie=UTF8&qid=1381523522&sr=8-24&keywords=html5+game+development">Releasing HTML5 Games for Windows 8</a></li>
 	<li><a href="http://www.amazon.co.uk/Supercharged-JavaScript-Graphics-canvas-jQuery/dp/1449393632/ref=sr_1_25?ie=UTF8&qid=1381523522&sr=8-25&keywords=html5+game+development">Supercharged JavaScript Graphics: with HTML5 canvas, jQuery, and More: with HTML5 Canvas, SVG, JQuery, and More</a></li>
+	
+	
+	### Example Games
+	[Puzzle in HTML5](https://eightcolors.net/?level=1)
 	<li><a href="http://www.amazon.co.uk/Definitive-Guide-HTML5-WebSocket-Apress/dp/1430247401/ref=sr_1_31?ie=UTF8&qid=1381523522&sr=8-31&keywords=html5+game+development">The Definitive Guide to HTML5 WebSocket (Definitive Guide Apress)</a></li>
 	<li><a href="http://gdcvault.com/gdmag">Game Developer Magazine</a></li>
 </ul>

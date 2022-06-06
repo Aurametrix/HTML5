@@ -212,6 +212,21 @@ A minimalist stylesheet for HTML elements
 + [AI-generated domain names](https://www.domainsfortherestofus.com/)
 + [Start Your Own ISP](https://startyourownisp.com/)
 + [static (serverless) status page](https://github.com/cstate)
+  
++ [Dashy](https://github.com/Lissy93/dashy) - self-hosted homepage for your homelab
++ [homer](https://github.com/bastienwirtz/homer)
+
++ [heimdall](https://github.com/linuxserver/Heimdall
+
++ [dashmachine](https://github.com/rmountjoy92/DashMachine
+
++ [flame](https://github.com/pawelmalak/flame
+
+
+
++ [netdata](https://github.com/netdata/netdata
+
++ [cockpit](https://github.com/cockpit-project/cockpit/  
 
 
 + [Syntax Highlighting in a Webpage Without Javascript](https://fctorial.github.io/posts/syntax_highlighting_nojs.html)

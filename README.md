@@ -241,6 +241,9 @@ A minimalist stylesheet for HTML elements
 + [lists.sh](https://lists.sh) — microblog for lists
 + [pastes.sh](https://pastes.sh) — pastebin
 
+
 ### Trends
 + [The Future of Web Software Is HTML-over-WebSockets](https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/)
 + [Locality of Behavior](https://htmx.org/essays/locality-of-behaviour/); see also AllpineJS and Tailwinds
+
++ [Complexity in Web Development](https://news.ycombinator.com/item?id=33134021)

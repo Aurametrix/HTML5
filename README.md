@@ -77,6 +77,11 @@
 ### Shapes
 + [SVG shape generator](https://www.softr.io/tools/svg-shape-generator)
 
++ [Open Source Icons](https://feathericons.com/)
++ [Beautiful & consistent icon toolkit ](https://lucide.dev/)
+
+https://news.ycombinator.com/item?id=33223964
+
 ### HTTP/HTTPS
 + [automated https server](https://github.com/SteveLTN/https-portal)
 + [HTTP/3 explained](https://http3-explained.haxx.se/en/)

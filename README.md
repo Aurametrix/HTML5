@@ -128,6 +128,8 @@ if you ssh into Server A and then from Server A to Server B:
 
 + [Static Site generator](https://github.com/sunainapai/makesite)
 
++ [Clix](https://clix.dev/) - building backends for web and mobile apps
+
 #### Front end
 
 + [The NOJS club](https://nojs.club/)

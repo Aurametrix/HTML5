@@ -129,6 +129,11 @@ if you ssh into Server A and then from Server A to Server B:
 + [Static Site generator](https://github.com/sunainapai/makesite)
 
 + [Clix](https://clix.dev/) - building backends for web and mobile apps
++ [Hyperview](https://hyperview.org/) - Native mobile apps, React Native client
+for developing server-driven mobile apps
++ [Divikit](https://github.com/divkit/divkit)
++  [AdaptiveCards by Microsoft](https://github.com/microsoft/AdaptiveCards)
++  [LiveView Native](https://native.live/)
 
 #### Front end
 

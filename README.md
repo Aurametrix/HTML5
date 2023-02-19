@@ -95,6 +95,7 @@ https://news.ycombinator.com/item?id=33223964
 + [HTTP toolkit for security research](https://github.com/dstotijn/hetty)
 + [HTTP toolkit](https://httptoolkit.tech/) - open source for debugging/testing
 + [uniqueness of passwords](https://haveibeenpwned.com/Passwords)
++ [staticrypt](https://github.com/robinmoisson/staticrypt) - password protect the content of your public static HTML file, without any back-end
 + [New HTTP standards for caching on the modern web](https://httptoolkit.tech/blog/status-targeted-caching-headers/)
 
 + [Next DNS](https://www.nextdns.io/)

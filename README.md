@@ -1,4 +1,5 @@
 + [W3schools HTML5](http://www.w3schools.com/html/html5_intro.asp)
++ [W3C Beta](https://beta.w3.org/)
 + [Resources for developers by developers](developer.mozilla.org)
 + [In-browser editor for static HTML](https://triplelog.com/writer/)
 

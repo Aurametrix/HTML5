@@ -33,6 +33,7 @@
 + [Web 0](https://elliott.computer/pages/web0.html)   - no JS, CSS, raw html
 
 
++ [Tufte Css](https://edwardtufte.github.io/tufte-css/) - to style web articles; [on github](https://github.com/edwardtufte/tufte-css)
     
 + [UI editor for single-element CSS illustrations](https://zerodivs.com/#/)
 

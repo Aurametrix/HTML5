@@ -5,6 +5,10 @@
 
 
 + [new.css](https://newcss.net/) - a classless CSS framework to write modern websites using only HTML
++ [Spinning diagrams with CSS](https://x.st/spinning-diagrams-with-css/)
++ [3d carousel](https://github.com/ericfortis/web-animations/blob/main/3d-carousel.js)
+
+
 
 + [Just-add-water CSS animations](http://daneden.github.io/animate.css/)
 

@@ -25,6 +25,7 @@
   + [css animations in github readme](https://github.com/sindresorhus/css-in-readme-like-wat)
   + [Full-bleed layout using CSS](https://joshwcomeau.com/css/full-bleed/)
   + [Interactive CSS grid generator](https://grid.layoutit.com/)
+  + [Typescale](https://typescale.com/) - a tool for easy CSS typography
   
  + [Tailwind CSS](https://tailwindcss.com/blog/tailwindcss-v3)
   

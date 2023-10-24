@@ -82,6 +82,7 @@
 + [W3 Tutorial](https://www.w3schools.com/colors/)
 + [Color palettes](https://colors.lol/)   
 + [Colorbox](https://www.colorbox.io/)
++ [Colorpicker](https://fffuel.co/cccolor/)
 + [Hue Tools](https://hue.tools/?format=hex)  
 
 ### Shapes

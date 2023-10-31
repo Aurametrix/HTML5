@@ -264,6 +264,7 @@ A minimalist stylesheet for HTML elements
 + [prose.sh](https://prose.sh/) - a blog platform for hackers
 + [lists.sh](https://lists.sh) — microblog for lists
 + [pastes.sh](https://pastes.sh) — pastebin
++ [WEB FM synthesizer](https://www.taktech.org/takm/WebFMSynth/)
 
 
 ### Trends

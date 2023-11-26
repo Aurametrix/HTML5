@@ -18,6 +18,7 @@
 + [CSS tricks](https://css-tricks.com/is-there-too-much-css-now/)
 
 + [CSS Reference](https://cssreference.io/)
++ [Animotion](https://cssanimotion.pages.dev/) - a visual CSS animation app
 
 + [CSS tips](https://jrl.ninja/etc/1/)
   + [CSS-based design](http://www.csszengarden.com/)

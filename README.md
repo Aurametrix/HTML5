@@ -13,6 +13,7 @@
 
 
 + [Just-add-water CSS animations](http://daneden.github.io/animate.css/)
++ [MAGICK.CSS](https://css.winterveil.net/) - Minimalist CSS -- [code](https://github.com/wintermute-cell/magick.css/blob/master/magick.css)
 
 + [css grid generator](https://www.layoutit.com/grid)
 

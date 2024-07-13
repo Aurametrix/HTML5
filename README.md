@@ -94,8 +94,9 @@
 
 + [Open Source Icons](https://feathericons.com/)
 + [Beautiful & consistent icon toolkit ](https://lucide.dev/)
++ [Responsible Bar Charts](https://9elements.com/blog/responsive-bar-charts-in-html-and-css/)
 
-https://news.ycombinator.com/item?id=33223964
+
 
 ### HTTP/HTTPS
 + [automated https server](https://github.com/SteveLTN/https-portal)

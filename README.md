@@ -49,6 +49,7 @@
 
 
 
+
 + [Hex grids](https://ninjarockstar.dev/css-hex-grids/) [hexagons](https://www.redblobgames.com/grids/hexagons/)
 
 + [Online bootcamp](https://www.bloc.io/)
@@ -149,6 +150,7 @@ for developing server-driven mobile apps
 + [Divikit](https://github.com/divkit/divkit)
 +  [AdaptiveCards by Microsoft](https://github.com/microsoft/AdaptiveCards)
 +  [LiveView Native](https://native.live/)
++  [Building websites with LLMs](https://blog.jim-nielsen.com/2025/lots-of-little-html-pages/)
 
 #### Front end
 

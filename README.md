@@ -6,6 +6,7 @@
 
 
 + [new.css](https://newcss.net/) - a classless CSS framework to write modern websites using only HTML
++ [CSS form control styling level 1](https://drafts.csswg.org/css-forms/)
 + [Spinning diagrams with CSS](https://x.st/spinning-diagrams-with-css/)
 + [cs16.css](https://cs16.samke.me/) - CSS library based on Counter Strike 1.6 UI
 + [3d carousel](https://github.com/ericfortis/web-animations/blob/main/3d-carousel.js)

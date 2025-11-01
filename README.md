@@ -20,6 +20,7 @@
 + [css grid generator](https://www.layoutit.com/grid)
 
 + [CSS tricks](https://css-tricks.com/is-there-too-much-css-now/)
++ [springs and bouncess in modern css](https://www.joshwcomeau.com/animation/linear-timing-function/)
 
 + [CSS Reference](https://cssreference.io/)
 + [Animotion](https://cssanimotion.pages.dev/) - a visual CSS animation app
